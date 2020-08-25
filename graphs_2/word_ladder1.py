@@ -112,4 +112,4 @@ def find_word_path(begin_word, end_word):
                 queue.enqueue(new_path)
 
 
-print(find_word_path("hit", "cog"))
+print(find_word_path("ruth", "mike"))
